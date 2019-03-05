@@ -1,0 +1,11 @@
+/Users/josephbaugh/workspace/NSS/backEnd/1book/5chap/iteratingPlanets/bin/Debug/netcoreapp2.2/iteratingPlanets.deps.json
+/Users/josephbaugh/workspace/NSS/backEnd/1book/5chap/iteratingPlanets/bin/Debug/netcoreapp2.2/iteratingPlanets.runtimeconfig.json
+/Users/josephbaugh/workspace/NSS/backEnd/1book/5chap/iteratingPlanets/bin/Debug/netcoreapp2.2/iteratingPlanets.runtimeconfig.dev.json
+/Users/josephbaugh/workspace/NSS/backEnd/1book/5chap/iteratingPlanets/bin/Debug/netcoreapp2.2/iteratingPlanets.dll
+/Users/josephbaugh/workspace/NSS/backEnd/1book/5chap/iteratingPlanets/bin/Debug/netcoreapp2.2/iteratingPlanets.pdb
+/Users/josephbaugh/workspace/NSS/backEnd/1book/5chap/iteratingPlanets/obj/Debug/netcoreapp2.2/iteratingPlanets.csprojAssemblyReference.cache
+/Users/josephbaugh/workspace/NSS/backEnd/1book/5chap/iteratingPlanets/obj/Debug/netcoreapp2.2/iteratingPlanets.csproj.CoreCompileInputs.cache
+/Users/josephbaugh/workspace/NSS/backEnd/1book/5chap/iteratingPlanets/obj/Debug/netcoreapp2.2/iteratingPlanets.AssemblyInfoInputs.cache
+/Users/josephbaugh/workspace/NSS/backEnd/1book/5chap/iteratingPlanets/obj/Debug/netcoreapp2.2/iteratingPlanets.AssemblyInfo.cs
+/Users/josephbaugh/workspace/NSS/backEnd/1book/5chap/iteratingPlanets/obj/Debug/netcoreapp2.2/iteratingPlanets.dll
+/Users/josephbaugh/workspace/NSS/backEnd/1book/5chap/iteratingPlanets/obj/Debug/netcoreapp2.2/iteratingPlanets.pdb
